@@ -7,7 +7,7 @@ The lack of accessible educational resources in the field of AI alignment create
 ## Design Process
 To ensure accessibility, I design the resources with simplicity and clarity in mind. The design process involves brainstorming ideas, researching and gathering information, sketching and prototyping, and designing and refining the resources. I use AI tools where ethical to assist in the design process.
 
-## Outcomes
+## Where to begin
 Signal-Alignment has created infographics and a short explainer for David Shapiro's Heuristic alignment theory. More projects and their progress can be found in the projects tab.
 
 ## Finding More Educational Resources
