@@ -23,7 +23,7 @@ https://www.youtube.com/@DavidShapiroAutomator
 
 https://github.com/daveshap/HeuristicImperatives
 
-**AI Safety Community document**
+**AI Safety Community document - links to other community alignment efforts**
 
 https://coda.io/@alignmentdev/alignmentecosystemdevelopment
 
