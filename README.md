@@ -1,8 +1,8 @@
 # Signal-Alignment 📡
-Welcome to the **Signal-Alignment** project! This is an initiative to create **educational infographics and animated explainers** for understanding the latest community AI alignment research projects. My goal is use clear, concise design to make AI alignment research more accessible and encourage more people to contribute to the development of safe and beneficial AI.
+Welcome to the **Signal-Alignment** project! This is an initiative to create **educational resources, infographics, and animated explainers** for understanding the latest community AI alignment research projects. My goal is use clear, concise design to make AI alignment research more accessible and encourage more people to contribute to the development of safe and beneficial AI.
 
 ## Understanding the Problem ⚠
-**The lack of accessible educational** resources in the field of AI alignment creates a barrier to entry for individuals who want to contribute. That's why I created Signal-Alignment to target individuals who are **new to AI alignment** and those who have limited technical knowledge. I also aim to contribute resources for specific open source community efforts in need of designers.
+**The lack of accessible educational** resources in the field of AI alignment creates a barrier to entry for individuals who want to contribute. **This is an urgent matter** which I believe the vast majority of society has had little to no say on. That's why I created Signal-Alignment to target individuals who are actively working in all open source AI projects, and even people who are **new to AI alignment** or have limited technical knowledge. If you have an idea or resource you would like to suggest, you can contact me below.
 
 ## Design Process ✒
 To ensure accessibility, I design the resources with simplicity and clarity in mind. The design process involves brainstorming ideas, researching and gathering information, sketching and prototyping, and designing and refining the resources. I use AI tools where ethical to assist in the design process. You can **view my projects in progress in the projects tab above**.
