@@ -1,5 +1,5 @@
 # Signal-Alignment
-Signal Alignment is an initiative that focuses on creating educational resources and explainers for other alignment research projects. My mission is to help make AI alignment research more accessible and approachable for a wider audience. By creating visually engaging resources that explain complex terms and concepts in a clear and concise way, I hope to encourage more people to engage with the field and contribute to the development of safe and beneficial AI.
+Signal Alignment is an initiative that focuses on creating educational resources and explainers for understanding other alignment research projects. My mission is to help make AI alignment research more accessible and approachable for a wider audience. By creating visually engaging resources that explain complex terms and concepts in a clear and concise way, I hope to encourage more people to engage with the field and contribute to the development of safe and beneficial AI.
 
 ## Infographics and Animated Explainers
 If you're new to AI alignment, I will be creating a series of infographics and animated explainers that cover key concepts in the field. These resources are designed to be accessible to anyone, regardless of their technical background. 
