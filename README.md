@@ -8,10 +8,11 @@ Welcome to the **Signal-Alignment** project! This is an initiative to create **e
 To ensure accessibility, I design the resources with simplicity and clarity in mind. The design process involves brainstorming ideas, researching and gathering information, sketching and prototyping, and designing and refining the resources. I use AI tools where ethical to assist in the design process. You can **view my projects in progress in the projects tab above**.
 
 ## Where to begin 🖼
-I have created infographics and a short explainer video for **David Shapiro's Heuristic alignment theory**. View these directly by clicking on the folders in this repository above.
+I have created a pdf document for **David Shapiro's Heuristic Imperatives**, and am working on a companion short explainer video. View these directly by clicking on the files and folders in this repository above.
 
+More projects to come, view progress in the projects tab above.
 
-More projects to come.
+![1 - Title](https://user-images.githubusercontent.com/130222960/231167597-0da10bf4-198e-4d27-ab41-21cb49fd528f.png)
 
 ## Finding More Educational Resources 📚
 While Signal-Alignment provides an introduction to AI alignment, deeper reading and research is necessary for a thorough understanding of the field. **Here are a few resources to help you get started:**
