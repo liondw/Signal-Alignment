@@ -10,7 +10,10 @@ Welcome to the **Signal-Alignment** project! This is an initiative to create **e
 To ensure accessibility, I design the resources with simplicity and clarity in mind. The design process involves brainstorming ideas, researching and gathering information, sketching and prototyping, and designing and refining the resources via feedback. I use AI tools where ethical to assist in the design process. You can **view my projects in progress in the projects tab above**.
 
 ## Where to begin 🖼
-I have created an [**Introduction to David Shapiro's Heuristic Imperatives**](https://github.com/liondw/Signal-Alignment/blob/c413cb0f631a3b6324c73831f095fab3cb78d50b/Heuristic%20Imperatives%20Graphics/Heuristic%20Imperatives%20-%20Introduction.pdf), and am working on a companion short explainer video for easier direct sharing. View these directly by clicking on the files and folders in this repository above.
+I have created an [**Introduction to David Shapiro's Heuristic Imperatives**](https://github.com/liondw/Signal-Alignment/blob/c413cb0f631a3b6324c73831f095fab3cb78d50b/Heuristic%20Imperatives%20Graphics/Heuristic%20Imperatives%20-%20Introduction.pdf) communicate this specific proposal to the AI alignment problem, and am working on a companion short explainer video for easier direct sharing. 
+Please note that this is an early proposal, and not a comprehensive solution to the AI alignment problem.
+
+View these directly by clicking on the files and folders in this repository above.
 
 More projects to come, view progress in the projects tab above.
 
