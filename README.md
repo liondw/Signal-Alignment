@@ -28,7 +28,7 @@ https://github.com/daveshap/HeuristicImperatives
 https://coda.io/@alignmentdev/alignmentecosystemdevelopment
 
 ## Contact me 📞
-If you have questions feel free to reach out for advice at signal.alignment@gmail.com.
+If you have questions, would like to contribute, or have topic suggestions, feel free to reach out on our discussion page or at signal.alignment@gmail.com.
 
 An early part of the Signal-Alignment initiative will be offering design and non-code contributions to others.
 For projects that I decide to take on, I am able to assist you with:
