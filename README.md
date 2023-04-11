@@ -21,5 +21,5 @@ AI Safety Community document
 https://coda.io/@alignmentdev/alignmentecosystemdevelopment
 
 
-## Contact
+## Contact and Feedback
 If you have questions or an idea for a video or infographic, feel free to reach out for advice at signal.alignment@gmail.com.
