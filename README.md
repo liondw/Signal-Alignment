@@ -1,5 +1,5 @@
 # Signal-Alignment 📡
-Welcome to the **Signal-Alignment** project! This is an initiative to create **educational resources, infographics, and animated explainers** for understanding the latest community AI alignment research projects. My goal is use clear, concise design to make AI alignment research more accessible and encourage more people to contribute to the development of safe and beneficial AI.
+Welcome to the **Signal-Alignment** project! This is an initiative to create **educational resources, infographics, and animated explainers** for understanding the latest community AI alignment research. My goal is use clear, concise design to make AI alignment research more accessible and encourage more people to contribute to the development of safe and beneficial AI.
 
 ## Understanding the Problem ⚠
 **We are at a crossroads** in AI development, fast approaching AGI and superintelligent Autonomous AI. There are many valid concerns ranging from **security, identity theft, misalignment, and malicious bad faith actors.** Currently, AI alignment research is [**severely lagging behind**](https://80000hours.org/problem-profiles/artificial-intelligence/#neglectedness) other advancements in AI technology. **Alignment of AI is an urgent matter** for which I believe the vast majority of society has had little to no awareness or say on.
