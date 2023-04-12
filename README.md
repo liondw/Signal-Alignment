@@ -12,10 +12,9 @@ To ensure accessibility, I design the resources with simplicity and clarity in m
 ## Where to begin 🖼
 I am prioritizing the design of educational slides articulating the AI alignment problem, as well as some immediate ways to contribute to a solution.
 
-I have already created an [**Introduction to David Shapiro's Heuristic Imperatives**](https://github.com/liondw/Signal-Alignment/blob/c413cb0f631a3b6324c73831f095fab3cb78d50b/Heuristic%20Imperatives%20Graphics/Heuristic%20Imperatives%20-%20Introduction.pdf), a proposed framework to solving the AI alignment problem, and am working on a companion short explainer video for easier direct sharing.
-Please note that this is an education effort to draw more attention and discussion to this topic, and this proposal is not a comprehensive solution to the AI alignment problem. 
+I have already created an [**Introduction to David Shapiro's Heuristic Imperatives**](https://github.com/liondw/Signal-Alignment/blob/c413cb0f631a3b6324c73831f095fab3cb78d50b/Heuristic%20Imperatives%20Graphics/Heuristic%20Imperatives%20-%20Introduction.pdf), a proposed framework to solving the AI alignment problem, and currently working on a follow-up addressing implementation of these principles, as well as a companion animated explainer video.
 
-View these directly by clicking on the files and folders in this repository above.
+**Please note** that this is an education effort to draw more attention and discussion to this topic, and this proposal is not a comprehensive solution to the AI alignment problem. 
 
 More projects to come, view progress in the projects tab above.
 
