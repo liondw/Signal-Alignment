@@ -49,3 +49,5 @@ For projects that I decide to take on, I am able to assist you with:
 ## Looking for researchers
 If this project looks like a step in the right direction, I am looking for people to work closely with me to assist with gathering information, reading through papers, and suggesting high-priority ideas for me to cover in this educational project.
 Please send me an enquiry via my email above, and I will review on a case-by-case.
+
+If you are a non-coder, have a special interest in communication and understanding and want to contribute, this might be the right place to start.  
