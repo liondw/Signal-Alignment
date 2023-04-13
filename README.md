@@ -1,3 +1,5 @@
+![SIGNAL ALIGNMENT TITLE](https://user-images.githubusercontent.com/130222960/231616989-5a30e8da-499b-487d-9d94-1fb8f640b5ae.png)
+
 # Signal-Alignment 📡
 Welcome to the **Signal-Alignment** project! This is an initiative to create **educational resources, infographics, and animated explainers** for understanding the latest community AI alignment research. My goal is use clear, concise design to make AI alignment research more accessible and encourage more people to contribute to the development of safe and beneficial AI.
 
