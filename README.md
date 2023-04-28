@@ -16,7 +16,7 @@ To ensure accessibility, I design the resources with simplicity and clarity in m
 ## Where to begin 🖼
 I am prioritizing the design of educational slides articulating the AI alignment problem, as well as some immediate ways to contribute to a solution.
 
-I have already created an [**Introduction to David Shapiro's Heuristic Imperatives**](https://github.com/liondw/Signal-Alignment/blob/c413cb0f631a3b6324c73831f095fab3cb78d50b/Heuristic%20Imperatives%20Graphics/Heuristic%20Imperatives%20-%20Introduction.pdf), a proposed framework to solving the AI alignment problem, and currently working on a follow-up addressing implementation of these principles, as well as a companion animated explainer video.
+I have already created an [**Introduction to David Shapiro's Heuristic Imperatives**](https://drive.google.com/file/d/1DBJOwVyqebkfyE-QZXgK7rmwOehKzpef/view?usp=share_link), a proposed framework to solving the AI alignment problem, and currently working on a follow-up addressing implementation of these principles, as well as a companion animated explainer video.
 
 This covers a fraction of David's work thus far, I highly suggest learning more via his videos:
 
@@ -28,7 +28,7 @@ As well as his github repo on [Heuristic Imperatives](https://github.com/davesha
 
 More projects to come, view progress in the projects tab above.
 
-![1 - Title](https://user-images.githubusercontent.com/130222960/231167597-0da10bf4-198e-4d27-ab41-21cb49fd528f.png)
+![1 - Title](https://user-images.githubusercontent.com/130222960/235196624-4655abde-db60-40ee-84e8-ba0c765bbd5b.png)
 
 ## Finding More Educational Resources 📚
 While Signal-Alignment provides an introduction to AI alignment, deeper reading and research is necessary for a thorough understanding of the field. **Here are a few resources to help you get started:**
