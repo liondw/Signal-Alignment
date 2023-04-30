@@ -13,6 +13,15 @@ I am in very early stages, please be patient with me as I get set up! Please con
 ## Design Process ✒
 To ensure accessibility, I design the resources with simplicity and clarity in mind. The design process involves brainstorming ideas, researching and gathering information, sketching and prototyping, and designing and refining the resources via feedback. I use AI tools where ethical to assist in the design process. You can **view my projects in progress in the projects tab above**.
 
+I recently participated in a 24 hour Hackathon to help present ETHOS, a modular and easily accessible agent alignment framework. 
+
+
+See more here:
+https://lablab.ai/event/autonomous-gpt-agents-hackathon/cogark
+
+![ETHOS Framework Presentation](https://user-images.githubusercontent.com/130222960/235379397-68916fa3-642c-49f0-b56a-f58360689883.png)
+
+
 ## Where to begin 🖼
 I am prioritizing the design of educational slides articulating the AI alignment problem, as well as some immediate ways to contribute to a solution.
 
