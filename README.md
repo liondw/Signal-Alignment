@@ -25,7 +25,7 @@ https://youtu.be/SL7f6WX20Ks
 ## Where to begin 🖼
 I am prioritizing the design of educational slides articulating the AI alignment problem, as well as some immediate ways to contribute to a solution.
 
-I have already created an [**Introduction to David Shapiro's Heuristic Imperatives**](https://drive.google.com/file/d/1DBJOwVyqebkfyE-QZXgK7rmwOehKzpef/view?usp=share_link), a proposed framework to solving the AI alignment problem, and currently working on a follow-up addressing implementation of these principles, as well as a companion animated explainer video.
+I have already created an [**Introduction to David Shapiro's Heuristic Imperatives**](https://drive.google.com/file/d/1_6t67K5XD-laMrDlWDFgsR4_JMsmpbZ8/view?usp=drive_link), a proposed framework to solving the AI alignment problem, and currently working on a follow-up addressing implementation of these principles, as well as a companion animated explainer video.
 
 This covers a fraction of David's work thus far, I highly suggest learning more via his videos:
 
