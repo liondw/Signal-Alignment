@@ -17,7 +17,7 @@ I recently participated in a 24 hour Hackathon to help present ETHOS, a modular 
 
 
 See more here:
-https://lablab.ai/event/autonomous-gpt-agents-hackathon/cogark
+https://youtu.be/SL7f6WX20Ks
 
 ![ETHOS Framework Presentation](https://user-images.githubusercontent.com/130222960/235379397-68916fa3-642c-49f0-b56a-f58360689883.png)
 
